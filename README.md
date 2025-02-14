@@ -10,8 +10,8 @@ O trabalho busca entregar um sistema que forneça algumas funcionalidade que coo
 
 ## Issues:
 [ ] - Má implementação das filas me levou à ter problemas onde os dados são sobrescritos várias vezes. 
-        NOTÓRIO: através do uso da fucionalidade 4.
-        NOTÓRIO: através do uso da fucionalidade 3 quando os clientes precisam ser realocados.
+        \n NOTÓRIO: através do uso da fucionalidade 4.
+        \n NOTÓRIO: através do uso da fucionalidade 3 quando os clientes precisam ser realocados.
 
 [ ] - Má modularização levou à um código ilegível com um main.cpp de quase 300 linhas de código.
 
